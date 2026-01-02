@@ -23,7 +23,7 @@ A multi-component platform designed for real-time video analysis applications. T
 
 The platform enables efficient video analysis workflows with emphasis on real-time performance and distributed processing. 
 
-**Tech Stack:** Java, PHP, WebSockets, Real-time Data Processing
+**Tech Stack:** Java, PHP, Real-time Data Processing
 
 ### Minecraft Fabric Mods
 
