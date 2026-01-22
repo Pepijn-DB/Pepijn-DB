@@ -37,7 +37,7 @@ A server-side Fabric mod that broadcasts real-time player location and rotation 
 [![My Ideas](https://skillicons.dev/icons?i=idea,phpstorm,clion,rider,vscode)](https://skillicons.dev)
 
 ##### Learning
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,react,flutter)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
