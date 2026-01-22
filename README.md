@@ -41,9 +41,9 @@ A server-side Fabric mod that broadcasts real-time player location and rotation 
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Pepijn-DB&show_icons=true&theme=dark&hide_border=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Pepijn-DB&show_icons=true&hide_border=true#gh-dark-mode-only)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pepijn-DB&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pepijn-DB&layout=compact&hide_border=true#gh-dark-mode-only)
 
 ## 📫 Connect With Me
 
